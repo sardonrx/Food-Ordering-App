@@ -4,7 +4,7 @@ Flutter representation of a Restaurant app UI i found in Uplabs.
 **It only consists of 2 screens.**
 
 Star⭐ I'm hungry for stars😉.
-[![Twitter Follow](https://img.shields.io/twitter/follow/adesojisusan.svg?style=social)](https://twitter.com/adesojisusan)
+[![Twitter Follow](https://img.shields.io/twitter/follow/adesojisusan.svg?style=social)
 
 
 ## 📸 ScreenShots
@@ -28,7 +28,7 @@ Star⭐ I'm hungry for stars😉.
 * A brain to think 🤓🤓
 
 ## 🤓 Author(s)
-**Adesoji Susan Adeola** [![Twitter Follow](https://img.shields.io/twitter/follow/adesojisusan.svg?style=social)](https://twitter.com/adesojisusan)
+**Susan-chips** [![Twitter Follow](https://img.shields.io/twitter/follow/.svg?style=social)](https://twitter.com/)
 
 ## Getting Started
 
